@@ -1,0 +1,4 @@
+-x
+
+# Save all videos under Movies directory in your home directory
+-o ~/storage/downloads/%(title)s.%(ext)s

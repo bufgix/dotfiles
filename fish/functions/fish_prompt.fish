@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/.local/share/omf/themes/flash/fish_prompt.fish
